@@ -47,3 +47,44 @@ Avec une valeur de 4, vous faites parti de ces gens qui semblent né pour cette 
 
 ###Définition des traits
 
+Résolution
+----------
+
+Dans une partie de jeu de rôle, les joueurs vont choisir et décrire les intentions de leurs personnages. A certains moment, il sera nécessaire de définir si l'action tenté est une réussite ou un échec : il faudra alors fait intervenir le système de résolution.
+
+###Règles d'Or
+
+####Pas de jet pour l'impossible
+
+La première des règles d'or est assez simple à comprendre : une action que le personnage ne peut rater, est automatiquement réussit. Inutile de faire intervenir une mécanique purement technique pour gérer une évidence.
+
+Sa corrollaire est également vrai : une action impossible à réussir doit automatiquement échoué. Nul jet si vous êtes certains que le personnage va échoué !
+
+####Pas de résolution sans interêt narratif
+
+Avant de résoudre une action, demandez-vous si l'échec a un réel interêt que ce soit pour l'histoire, ou pour ouvrir les portes à une scènes ou une action intéressante.
+
+Si l'échec ne présente aucun interêt autre que mettre des batons dans les roues de l'intrigue : alors ne faites pas de résolution. Décidez arbitrairement que l'action est une réussite et passer à la suite !
+
+####La routine sans aléatoire
+
+Le système de résolution est conçu pour gérer les cas où le personnage est face à une situation inconnu : un problème qu'il n'a encore jamais solver, un environnement défavorable ou stressant, ... Quand vous rentrez dans la routine du personnage, dans ce qu'il réalise tous les jours, il est inutile de faire intervenir un système chiffré. Demandez-vous juste si le personnage à les compétences puis, le cas échéant, continuez la scène sans l'interrompte.
+
+###Résolution simple
+
+Pas résolution simple on entend les cas où le personnage est opposé à une épreuve à la difficulté fixe. Par exemple, escalader un mur fait parti de ce type de test : quelques minutes plus tard la grimpette sera aussi ardues.
+
+Dans ce type de situation, nous suivrons les étapes suivantes :
+
+1. Choix de la caractéristique
+2. Choix de la compétence
+3. Jets et résolutions
+4. Descriptions
+
+####Choix de la caractéristique
+
+####Choix de la compétence
+
+####Jets et résolutions
+
+####Descriptions

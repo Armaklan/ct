@@ -68,7 +68,9 @@ Si l'échec ne présente aucun interêt autre que mettre des batons dans les rou
 
 ####La routine sans aléatoire
 
-Le système de résolution est conçu pour gérer les cas où le personnage est face à une situation inconnu : un problème qu'il n'a encore jamais solver, un environnement défavorable ou stressant, ... Quand vous rentrez dans la routine du personnage, dans ce qu'il réalise tous les jours, il est inutile de faire intervenir un système chiffré. Demandez-vous juste si le personnage à les compétences puis, le cas échéant, continuez la scène sans l'interrompte.
+Le système de résolution est conçu pour gérer les cas où le personnage est face à une situation inconnu : un problème qu'il n'a encore jamais solver, un environnement défavorable ou stressant, ... 
+
+Quand vous rentrez dans la routine du personnage, dans ce qu'il réalise tous les jours, il est inutile de faire intervenir un système chiffré. Demandez-vous juste si le personnage à les compétences puis, le cas échéant, continuez la scène sans l'interrompte.
 
 ###Résolution simple
 
@@ -86,5 +88,17 @@ Dans ce type de situation, nous suivrons les étapes suivantes :
 ####Choix de la compétence
 
 ####Jets et résolutions
+
+Caractéristique dé, conserve 2 résultats.
+Ajout de la compétence (+1 à +5).
+Comparer au facteur de difficulté.
+
+4+ 		Enfantin
+6+ 		Simple
+9+ 		Challengeant
+12+ 	Difficile
+14+ 	Très difficile
+16+ 	Héroïque
+
 
 ####Descriptions
